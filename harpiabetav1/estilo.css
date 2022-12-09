@@ -1,0 +1,88 @@
+* {box-sizing: border-box;}
+
+body
+{
+    margin: 0px;
+    background-color: rgb(54, 13, 13);
+
+}
+
+
+
+.cabeca
+{   
+    background-color: rgb(207, 51, 45);
+    border: 5px solid rgb(40, 84, 179);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+#titulo1
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.circulo1
+{
+    background-color:rgb(27, 121, 184);
+    width: 200px; height: 200px;
+    border-radius: 100px;
+    border-bottom: 5px solid rgb(160, 29, 25);
+    padding: 10px;
+    margin: 10px;
+}
+
+#harpiafoto1
+{
+    width: 200px; height: 200px;
+    padding: 10px;
+    margin: 10px;
+    object-fit: contain;
+    opacity: 12%;
+}
+
+#textocirculo1
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#link1
+{
+    display: block;
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+
+.circulo2
+{
+    background-color:rgb(27, 121, 184);
+    width: 200px; height: 200px;
+    border-radius: 100px;
+    border-bottom: 5px solid rgb(160, 29, 25);
+    padding: 10px;
+    margin: 10px;
+}
+
+#harpiafoto2
+{
+    width: 200px; height: 200px;
+    padding: 10px;
+    margin: 10px;
+    object-fit: contain;
+    opacity: 12%;
+}
+
+#textocirculo2
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#link2
+{
+    display: block;
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
